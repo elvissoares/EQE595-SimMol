@@ -1,4 +1,4 @@
-# EQE595 - Modelagem e Simulação Molecular (2025/1)
+# EQE595 - Modelagem e Simulação Molecular (2025/2)
 
 Esse repositório contem as notas de aula e notebooks em Python para o curso EQE595 - Modelagem e Simulação Molecular da [Escola de Química](https://eq.ufrj.br/) - UFRJ.
 
@@ -6,14 +6,44 @@ O curso é desenvolvido para estudantes de graduação em Engenharia de Bioproce
 
 O foco é no aprofundamento dos conceitos teóricos e métodos computacionais para a resolução de problemas envolvendo simulação molecular de macromoléculas, biomoléculas, entre outros sistemas de interesse.  
 
-## Ementa
+**Horário de aulas:** 3a, 9:00-12:00
 
-A ementa e as informações gerais para a edição do curso em 2025/1 estão disponíveis [aqui](https://elvissoares.com/ensino/eqe535-modelagem-e-simulacao-molecular-2025-1/).
+**Sala de Aula:** I224
 
-**MÉTODO DE TRABALHO:** aulas teórico-práticas em laboratório de computação com
-realização de exercícios em aula e listas de exercício extra-classe. Utilização de softwares livres como Python e OpenMM.
+**Calendário:** 05/Ago – 09/Dez ( ~19 semanas )
 
-**CRITÉRIOS DE AVALIAÇÃO:** avaliação baseada em listas de exercícios extra-classe e projetos de final de curso.
+## Infos Gerais
+
+A ementa e as informações gerais para a edição do curso em 2025/2 estão disponíveis [aqui](https://elvissoares.com/ensino/eqe535-modelagem-e-simulacao-molecular-2025-2/).
+
+**Método de Trabalho:** 
+
+Aulas teórico-práticas em laboratório de computação com realização de exercícios em aula e listas de exercício extra-classe. Utilização de softwares livres como Python e OpenMM.
+
+**Critérios de Avaliação**
+
+- 20% de Presença e Participação
+- 40% de Listas de Exercícios (~6 listas)
+- 40% de Projeto Final
+
+**Notas de aula e códigos**
+
+- Notas de aula e Notebooks: pasta [``aulas``](aulas/)
+- Listas de Exercícios: pasta  [``listas``](listas/)
+
+## Programa
+
+1. Introdução ao Python
+2. 2ª Lei de Newton e integração de EDOs
+3. Distribuição de Maxwell-Boltzmann
+4. Interação de Lennard-Jones
+5. Ensemble NVE
+6. Ensemble NVT
+7. OpenMM
+8. Ensemble NPT
+9. Água e Campos de Força
+10. Soluto e Solvente
+
 
 ## Referências 
 - Frenkel, D., & Smit, B. (2023). [**Understanding molecular simulation: from algorithms to applications, 3rd Edition**](https://www.amazon.com/Understanding-Molecular-Simulation-Algorithms-Applications/dp/0323902928). Elsevier.
@@ -21,11 +51,6 @@ realização de exercícios em aula e listas de exercício extra-classe. Utiliza
 - Landau, R. H., Páez, M. J., & Bordeianu, C. C. (2024). [**Computational physics: Problem solving with Python, 4th Edition**](https://www.amazon.com/Computational-Physics-Problem-Solving-Python/dp/3527414258). John Wiley & Sons.
 - Newman, M. (2013). [**Computational physics**](https://www.amazon.com/Computational-Physics-Mark-Newman/dp/1480145513). CreateSpace Independent Publishing Platform.
 
-## Notas de aula e códigos
-
-- Notas de aula: pasta [``lectures``](lectures/)
-- Notebooks: pasta  [``notebooks``](notebooks/)
-- Listas de Exercícios: pasta  [``listas``](listas/)
 
 ## Contato
 
