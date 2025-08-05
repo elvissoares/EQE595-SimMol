@@ -23,33 +23,33 @@ Aulas teórico-práticas em laboratório de computação com realização de exe
 **Critérios de Avaliação**
 
 - 20% de Presença e Participação
-- 40% de Listas de Exercícios (~6 listas)
+- 40% de Listas de Exercícios (~10 listas)
 - 40% de Projeto Final
 
 **Notas de aula e códigos**
 
-- Notas de aula e Notebooks: pasta [``aulas``](aulas/)
+- Notas de aula: pasta [``aulas``](aulas/)
+- Notebooks: pasta [``notebooks``](notebooks/)
 - Listas de Exercícios: pasta  [``listas``](listas/)
 
 ## Programa
 
 1. Introdução ao Python
-2. 2ª Lei de Newton e integração de EDOs
-3. Distribuição de Maxwell-Boltzmann
-4. Interação de Lennard-Jones
-5. Ensemble NVE
-6. Ensemble NVT
-7. OpenMM
-8. Ensemble NPT
-9. Água e Campos de Força
-10. Soluto e Solvente
+2. Ensemble NVE e integrador de Verlet
+3. Interação de Lennard-Jones
+4. Distribuição de Maxwell-Boltzmann
+5. Ensemble NVT e integrador de Langevin
+6. Ensemble NPT
+7. Água e Campos de Força
+8. Soluto e Solvente
+9. Integração Termodinâmica
 
 
 ## Referências 
+- Newman, M. (2013). [**Computational physics**](https://www.amazon.com/Computational-Physics-Mark-Newman/dp/1480145513). CreateSpace Independent Publishing Platform.
+- Landau, R. H., Páez, M. J., & Bordeianu, C. C. (2024). [**Computational physics: Problem solving with Python, 4th Edition**](https://www.amazon.com/Computational-Physics-Problem-Solving-Python/dp/3527414258). John Wiley & Sons.
 - Frenkel, D., & Smit, B. (2023). [**Understanding molecular simulation: from algorithms to applications, 3rd Edition**](https://www.amazon.com/Understanding-Molecular-Simulation-Algorithms-Applications/dp/0323902928). Elsevier.
 - Allen, M. P., & Tildesley, D. J. (2017). [**Computer simulation of liquids, 2nd Edition**](https://www.amazon.com/Computer-Simulation-Liquids-Michael-Allen/dp/0198803206/). Oxford university press.
-- Landau, R. H., Páez, M. J., & Bordeianu, C. C. (2024). [**Computational physics: Problem solving with Python, 4th Edition**](https://www.amazon.com/Computational-Physics-Problem-Solving-Python/dp/3527414258). John Wiley & Sons.
-- Newman, M. (2013). [**Computational physics**](https://www.amazon.com/Computational-Physics-Mark-Newman/dp/1480145513). CreateSpace Independent Publishing Platform.
 
 
 ## Contato
