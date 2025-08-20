@@ -35,8 +35,8 @@ Aulas teórico-práticas em laboratório de computação com realização de exe
 ## Programa
 
 1. Introdução ao Python
-2. Ensemble NVE e integrador de Verlet
-3. Interação de Lennard-Jones
+2. Interação de Lennard-Jones
+3. Ensemble NVE e integrador de Verlet
 4. Distribuição de Maxwell-Boltzmann
 5. Ensemble NVT e integrador de Langevin
 6. Ensemble NPT
