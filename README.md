@@ -37,12 +37,11 @@ Aulas teórico-práticas em laboratório de computação com realização de exe
 1. Introdução ao Python
 2. Interação de Lennard-Jones
 3. Ensemble NVE e integrador de Verlet
-4. Distribuição de Maxwell-Boltzmann
-5. Ensemble NVT e integrador de Langevin
-6. Ensemble NPT
-7. Água e Campos de Força
-8. Soluto e Solvente
-9. Integração Termodinâmica
+4. Ensemble NVT e integrador de Langevin
+5. Ensemble NPT
+6. Água e Campos de Força
+7. Soluto e Solvente
+8. Integração Termodinâmica
 
 
 ## Referências 
