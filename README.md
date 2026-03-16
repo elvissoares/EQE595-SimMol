@@ -1,4 +1,4 @@
-# EQE595 - Modelagem e Simulação Molecular (2025/2)
+# EQE595 - Modelagem e Simulação Molecular (2026/1)
 
 Esse repositório contem as notas de aula e notebooks em Python para o curso EQE595 - Modelagem e Simulação Molecular da [Escola de Química](https://eq.ufrj.br/) - UFRJ.
 
@@ -10,11 +10,11 @@ O foco é no aprofundamento dos conceitos teóricos e métodos computacionais pa
 
 **Sala de Aula:** I224
 
-**Calendário:** 05/Ago – 09/Dez ( ~19 semanas )
+**Calendário:** 10/Mar – 07/Jul (~17 encontros)
 
 ## Infos Gerais
 
-A ementa e as informações gerais para a edição do curso em 2025/2 estão disponíveis [aqui](https://elvissoares.com/ensino/eqe535-modelagem-e-simulacao-molecular-2025-2/).
+A ementa e as informações gerais para a edição do curso em 2026/1 estão disponíveis [aqui](https://elvissoares.com/ensino/eqe535-modelagem-e-simulacao-molecular-2025-2/).
 
 **Método de Trabalho:** 
 
@@ -23,8 +23,8 @@ Aulas teórico-práticas em laboratório de computação com realização de exe
 **Critérios de Avaliação**
 
 - 20% de Presença e Participação
-- 40% de Listas de Exercícios (~10 listas)
-- 40% de Projeto Final
+- 30% de Listas de Exercícios (~06 listas)
+- 50% de Projeto Final
 
 **Notas de aula e códigos**
 
