@@ -122,3 +122,5 @@ A conclusão deve responder:
 ## 10. Observação importante
 
 As simulações de **10 ns** são curtas. Portanto, as conclusões devem ser apresentadas como tendências observadas na janela simulada, e não como conclusões definitivas sobre estabilidade termodinâmica.
+
+**DATA DA APRESENTAÇÃO**: 14/7/2026 - 9hs às 12hs
