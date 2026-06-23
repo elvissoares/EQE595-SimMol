@@ -6,16 +6,22 @@ Investigar, por dinâmica molecular clássica, como a **força iônica da soluç
 
 ## 2. Proteínas disponíveis
 
-Cada grupo deverá estudar uma das proteínas abaixo:
+Cada grupo deverá estudar a sua proteína correspondente à tabela abaixo:
 
-| Grupo | PDB | Proteína |
+| Grupo | Nomes | PDB | Proteína |
+|---|---|---|---|
+| 1 | Davi T., Vinicius, Andre | **1PGB** | Protein G B1 domain |
+| 2 | Davi B., Larissa, Mateus | **1CRN** | Crambin |
+| 3 | Maira, Patrícia, Bernardo, Davidson | **1UBQ** | Ubiquitin |
+
+<!-- | Grupo | PDB | Proteína |
 |---|---|---|
 | 1 | **1L2Y** | Trp-cage |
 | 2 | **1CRN** | Crambin |
 | 3 | **1VII** | Villin headpiece |
 | 4 | **1E0L** | WW domain |
 | 5 | **1PGB** | Protein G B1 domain |
-| 6 | **1UBQ** | Ubiquitin |
+| 6 | **1UBQ** | Ubiquitin | -->
 
 ## 3. Condições de simulação
 
