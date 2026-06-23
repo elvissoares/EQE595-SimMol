@@ -64,6 +64,8 @@ Cada grupo deverá:
 7. Rodar **10 ns de produção em NPT** para cada força iônica.
 8. Analisar as trajetórias com **MDTraj**.
 
+OBS: Cada integrante do grupo deverá gerar um arquivo de trajetória e o grupo deverá apresentar os dados de cada trajetória independente. 
+
 ## 5. Análises obrigatórias
 
 Cada grupo deverá calcular e discutir:
@@ -99,7 +101,7 @@ Tabela sugerida:
 
 Ao final, o grupo deverá pesquisar e apresentar:
 
-- imagem da estrutura da proteína;
+- imagem da estrutura da proteína gerada no VMD;
 - o que é a proteína estudada;
 - em qual organismo ou contexto ela aparece;
 - qual sua função conhecida;
@@ -108,11 +110,13 @@ Ao final, o grupo deverá pesquisar e apresentar:
 
 ## 8. Entregáveis
 
-Cada grupo deverá entregar:
+Cada _integrante do grupo_ deverá entregar:
 
 1. Notebook Jupyter de simulação MD;
 2. Notebook Jupyter de análise com gráficos e tabela-resumo;
-5. Apresentação final de **10 a 12 minutos**.
+
+O _grupo_ deverá entregar:
+1. Apresentação final de **10 a 12 minutos**.
 
 ## 9. Perguntas orientadoras
 
