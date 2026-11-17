@@ -8,14 +8,14 @@ Investigar, por dinâmica molecular clássica, como a **temperatura** e a **for�
 
 Cada grupo deverá estudar uma das proteínas abaixo:
 
-| Grupo | PDB      | Proteína            | Candidat@ |
-| ----- | -------- | ------------------- | --------- |
-| 1     | **1L2Y** | Trp-cage            |           |
-| 2     | **1CRN** | Crambin             |           |
-| 3     | **1VII** | Villin headpiece    |           |
-| 4     | **1E0L** | WW domain           |           |
-| 5     | **1PGB** | Protein G B1 domain |           |
-| 6     | **1UBQ** | Ubiquitin           |           |
+| Grupo | PDB      | Proteína            | Candidat@   |
+| ----- | -------- | ------------------- | ----------- |
+| 1     | **1L2Y** | Trp-cage            | Gustavo     |
+| 2     | **1CRN** | Crambin             | Felipe      |
+| 3     | **1VII** | Villin headpiece    | João Victor |
+| 4     | **1E0L** | WW domain           | Matheus     |
+| 5     | **1PGB** | Protein G B1 domain | Pietra      |
+| 6     | **1UBQ** | Ubiquitin           | --          |
 
 ## 3. Condições de simulação
 
